@@ -54,6 +54,12 @@
   '
   ((NONE))
 )
+
+;;; Mahesh Velankar 13 February 2018 ;;;;
+(set! mano_indic_accent_cart_tree
+  '
+  ((NONE))
+)
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 
 (define (INST_LANG_VOX::select_intonation)
